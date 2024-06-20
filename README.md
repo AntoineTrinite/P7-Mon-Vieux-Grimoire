@@ -8,3 +8,6 @@
 
 ## Quick Start
   Git clone the project. Install node and the packages if missing, run the project on your local machine.
+
+## Contributing
+  Well ... Don't
