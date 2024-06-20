@@ -11,3 +11,5 @@
 
 ## Contributing
   Well ... Don't
+
+Contributing is not necessary
